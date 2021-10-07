@@ -1,0 +1,33 @@
+.button {
+    display: block;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+.button-list {
+    display: flex;
+}
+
+.product__button-list {
+    flex-wrap: wrap;
+    margin: 3em 0 1em 0;
+}
+
+.button-list__item {
+    list-style: none;
+    margin-right: 0.3em;
+    margin-bottom: 0.5em;
+}
+
+.button_brown-button {
+    background-color: var(--main-brand-brown);
+    border: none;
+    font-size: 0.8em;
+    padding: 0.5em 1.2em;
+    color: var(--white);
+}
+
+.button_brown-button:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}

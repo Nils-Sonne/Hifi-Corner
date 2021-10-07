@@ -1,0 +1,72 @@
+.product-form {
+    border: solid 1px #a29fa2;
+}
+
+.product-form__variant {
+    border: none;
+}
+
+.product-form__quantity {
+    border: none;
+    background-color: var(--second-brand-grey);
+}
+
+.product-form__quantity-box {
+    display: grid;
+    justify-content: left;
+    justify-items: center;
+    align-items: center;
+    margin: 2em 1em;
+    border-bottom: solid 1px #000;
+    gap: 1em 0.5em;
+    grid-template-columns: repeat(3, auto);
+    grid-template-rows: auto;
+    grid-template-areas:
+    "label input submit"
+    ". . or"
+    ". . paypal";
+}
+
+.product-quantity__label {
+    grid-area: label;
+}
+
+.product-quantity__input {
+    grid-area: input;
+    width: 50px;
+    height: 100%;
+    text-align: center;
+    font-size: 0.8em;
+}
+
+.product-form__submit {
+    grid-area: submit;
+    font-size: 1.2em;
+    width: 200px;
+}
+
+.or {
+    grid-area: or;
+    text-transform: uppercase;
+}
+
+.paypal-button {
+    grid-area: paypal;
+    margin-bottom: 1.5em;
+}
+
+.product-form__variant {
+    margin: 1em 1em;
+}
+
+.product-variant__input {
+    margin-right: 1em;
+}
+
+.product-variant__variant-box {
+    display: block;
+    width: 40%;
+    background-color: var(--second-brand-grey);
+    padding: 0.4em 1em;
+    margin: 0.5em 0;
+}

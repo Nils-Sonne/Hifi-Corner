@@ -1,0 +1,40 @@
+.searchbar{
+    padding: 1em;
+}
+
+.searchbar__label{
+    padding: 6px;
+    margin-top: 0.5em;
+    margin-right: 3em;
+    border: none;
+}
+
+.searchbar__input{
+    width: 350px;
+    height: 2em;
+    border-radius: 2px;
+    border: none;
+    padding: 0.5em;
+    padding-right: 3em;
+    position: relative;
+}
+
+form.searchbar__label input[type=text]{
+    padding: 10px;
+    font-size: 17px;
+}
+
+form.searchbar__label::after{
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.searchbar__button{
+    cursor: pointer;
+    position: absolute;
+    margin-left: -2em;
+    margin-top: 0.5em;
+    border: none;
+    background-color: transparent;
+}

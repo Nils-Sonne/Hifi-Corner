@@ -1,0 +1,14 @@
+.breadcrumbs{
+    font-size: 12px;
+    background-color: var(--white);
+    padding-bottom: 1em;
+}
+
+.breadcrumbs__home{
+    color: var(--main-brand-brown); 
+}
+
+.breadcrumbs__home_active{
+    color: var(--main-brand-brown); 
+    text-decoration: none;
+}

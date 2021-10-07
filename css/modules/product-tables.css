@@ -1,0 +1,36 @@
+.heading__product-info {
+    text-transform: uppercase;
+    margin: 0.5em 0;
+    color: var(--main-brand-brown);
+    font-weight: 500;
+}
+
+.product-info__info-table {
+    border-collapse: collapse;
+    width: 95%;
+}
+
+.product-info__info-table, .info-table__data-title, .info-table__data-value {
+    border: solid 1px var(--black);
+}
+
+.info-table__data-title, .info-table__data-value {
+    padding: 0.5em 0.5em;
+}
+
+.info-table__data-title {
+    text-transform: uppercase;
+    font-weight: 700;
+    background-color: var(--second-brand-grey);
+    width: 35%;
+}
+
+.product-detail__detail-table {
+    width: 70%;
+}
+
+.heading__product-details {
+    text-transform: uppercase;
+    margin: 0.5em 0;
+    color: var(--main-brand-brown);
+}

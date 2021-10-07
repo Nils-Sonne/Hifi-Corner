@@ -1,0 +1,35 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "brand": "Creek",
+            "category": "CD players",
+            "name": "PrimaLuna Dialouge Seven",
+            "price": "£100",
+            "sale": "£75",
+            "image_folder": "default_slider",
+            "image": "slide.jpg",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+     
+        },
+
+        {
+            "id": 2,
+            "brand": "Creek",
+            "category": "CD players",
+            "name": "Creek Classic CD",
+            "price": "£100",
+            "sale": "£75",
+            "image_folder": "default_slider",
+            "image": "slide-2.jpg",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+     
+        }
+
+  
+        
+     
+        
+                                                           
+    ]
+}

@@ -1,0 +1,16 @@
+.icon-list{
+    display: flex;
+    justify-content: flex-end;
+    color: var(--white);
+    background: rgba(0, 0, 0, 0.748) ;
+}
+
+.icon-list__icon{
+    padding: 10px;
+}
+
+.icon-list__icon_link{
+    color: var(--white);
+}
+
+

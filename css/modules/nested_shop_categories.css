@@ -1,0 +1,10 @@
+.shop__kategorier_nest {
+    grid-column: col 1 / span 2;
+    grid-row: row auto;
+    display: grid;
+    grid-gap: 1em;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    width: 780px;
+    padding-bottom: 1.3em;
+    margin: 0 auto;
+}

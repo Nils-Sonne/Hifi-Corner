@@ -1,0 +1,14 @@
+.shop__kategorier_box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 183px;
+    border: solid 1px rgb(230, 230, 230);
+    height: 183px;
+    }  
+    
+.shop__kategorier_varebillede{
+    width: auto;
+    max-width: 100%;
+    max-height: 100%;
+    }

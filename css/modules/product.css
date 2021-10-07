@@ -1,0 +1,54 @@
+.body {
+    background-color: var(--black);
+}
+
+.product-box {
+    background-color: var(--white);
+    max-width: 1300px;
+    gap: 0 2em;
+    margin: 0 auto;
+    padding: 0 1.5em;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: auto;
+    grid-template-areas:
+    "breadcrumbs ." 
+    "preview description"
+    "preview cart"
+    "preview info"
+    "details ."
+    "call call";
+}
+
+.product-breadcrumbs {
+    grid-area: breadcrumbs;
+    margin: 1.5em 0 0.5em 0;
+}
+
+.product-preview {
+    grid-area: preview;
+}
+
+.product-description {
+    grid-area: description;
+}
+
+.product-cart {
+    grid-area: cart;
+}
+
+.product-info {
+    grid-area: info;
+}
+
+.product-details {
+    grid-area: details;
+}
+
+.product-call {
+    grid-area: call;
+}
+
+.webBanner__fullWidth {
+    width: 100%;
+}

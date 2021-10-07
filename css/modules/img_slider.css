@@ -1,0 +1,104 @@
+#slide{
+	width:96%;
+	}
+
+.mySlides {
+	display: none;
+}
+
+.slideshow-container {
+	width: auto;
+	position: relative;
+    margin: -10px;
+}
+
+.img-slider__container{
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+
+.img-slider__text{
+    position: absolute;
+    left: 120px;
+    height: 200px;
+    width: 200px;
+    z-index: 5;
+    margin-bottom: 100px;
+}
+
+/* Next & previous pile */
+.prev, .next {
+	cursor: pointer;
+	position: absolute;
+	width: auto;
+	padding: 16px;
+	color: #c0ab9f;
+	font-weight: bold;
+	font-size: 18px;
+	transition: 0.6s ease;
+    border-radius: 0 3px 3px 0;
+    z-index: 10;
+}
+/* Position the "next button" to the right */
+.next {
+	right: 0;
+    border-radius: 3px 0 0 3px;
+}
+
+.prev{
+    left: 0;
+}
+
+.img-slider__arrow-icon{
+    font-size: 60px;
+}
+
+.img-slider__text{
+	color: #c0ab9f;
+	font-family: 'Museo Sans Rounded';
+	font-size: 30px;
+}
+
+.prev:hover, .next:hover {
+	background-color: rgba(0, 0, 0, 0.199);
+}
+
+/* The dots/bullets/indicators */
+.dot {
+	cursor: pointer;
+	height: 13px;
+	width: 13px;
+	margin: 0 2px;
+	background-color: #bbb;
+	border-radius: 50%;
+	display: inline-block;
+	transition: background-color 0.6s ease;
+}
+.active, .dot:hover {
+	background-color: #494B55;
+}
+
+/* .image-slider__buttons{
+    display: none;
+} */
+
+/* Fading animation */
+.fade {
+	-webkit-animation-name: fade;
+	-webkit-animation-duration: 1s;
+	animation-name: fade;
+	animation-duration: 1s;
+}
+
+@keyframes fade {
+  from {opacity: .7} 
+  to {opacity: 1}
+}
+
+.pics{
+    width: 100%;
+    min-height: 320px;
+}

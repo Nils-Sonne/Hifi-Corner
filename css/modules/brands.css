@@ -1,0 +1,120 @@
+.header{
+    background-color: var(--black);
+}
+
+
+.hero__logo-brands{
+    position: relative;
+    top: 2em;
+    right: 5em;
+    align-self: baseline;
+    margin-top: 100px;
+    height: 150px;
+    width: 150px;  
+    z-index: 2; 
+}
+
+.hero__logo-brands img {
+    position: relative;
+   z-index: 2;
+}
+
+.hero__topbrands{
+    position: absolute;
+    top: 50%;
+    left: 5em;
+    color: var(--white);
+    font-weight: 100;
+}
+
+.brands__brandslinks{
+    background-color: var(--black);
+    height: 400px;
+    position: relative;
+}
+
+.brands__brandslinks-square{
+    border: white 1em solid;
+    height: 25em;
+    width: 87%;
+    margin-left: 7em;
+}
+
+.brands__links{
+    position: absolute;
+    height: 8em;
+    width: 8em;
+    padding: 1.5em;
+}
+
+.brands__instock{
+    font-size: small;
+    color: var(--main-brand-brown);
+    width: 500px;
+    padding: 0.5em;
+    font-weight: bold;
+}
+
+.brands__grid_container{
+    display: grid;
+    justify-content: space-between;
+    grid-template-columns: 3.5em 3em 5em 3em 3.5em;
+    grid-gap: 1em;
+    padding-top: 0.5em;
+    font-size: 1.1em;
+}
+
+.brands__grid_container > a {
+    align-items: center;
+}
+
+.brands__textarea{
+    right: 0;
+    position: absolute;
+    width: 50%;
+}
+
+.brands__textarea_bgbox{
+    position: relative;
+    width:83%;
+}
+
+.brands__textarea_bg{
+    height: 368px;
+}
+
+.brands__textarea_bgbox .brands__text_pbox{
+    position: absolute;
+    z-index: 999;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+    top: 0;
+    width: 100%;
+}
+
+.brands__text_h1{
+    color: var(--main-brand-brown);
+    margin: 15px;
+    text-transform: uppercase;
+}
+
+.brands__text_p{
+    color: var(--white);
+    margin: 15px;
+    font-size: small;
+    margin-right: 15em;
+    padding: 5px;
+    position: absolute;
+    z-index: 5;
+    font-weight: 300;
+}
+
+.brands__text_link a{
+    color: var(--main-brand-brown);
+    position: absolute;
+    font-size: small;
+    text-transform: uppercase;
+    margin-left: 15px;
+    top: 80%;
+}

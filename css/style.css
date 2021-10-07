@@ -1,0 +1,23 @@
+@import "./base.css"; /* Det grundlæggende */
+@import "./modules/navigation.css"; /* Navigationen */
+@import "modules/header_icons.css"; /* Iconer i header */
+@import "modules/heads.css"; /* background header */
+@import "modules/banner.css"; /* Banner med text */
+@import "modules/img_slider.css"; /* slide-galleri på index */
+@import "modules/soMe.css"; /* Social cards */
+@import "modules/info-cards.css";  /* Information cards */
+@import "modules/footer.css"; /* Footer */
+@import "modules/categories.css"; /* Kategori siden */
+@import "modules/brands.css"; /* Brands */
+@import "modules/shop_kategorier.css"; /* Shop kategorisiden  */
+@import "modules/product.css"; /* Product side */
+@import "modules/product-preview.css"; /* Product previwe gallery */
+@import "modules/product-description.css"; /* Product description */
+@import "modules/product-form.css"; /* "Add to cart" form til product */
+@import "modules/product-tables.css"; /* Tables til product siden */
+@import "modules/product-call.css"; /* call button */
+@import "modules/product-category-thumb.css";
+@import "modules/nested_shop_categories.css";
+@import "modules/buttons.css"; /* guld knapper */
+@import "modules/breadcrumbs.css";
+@import "modules/searchbar.css";

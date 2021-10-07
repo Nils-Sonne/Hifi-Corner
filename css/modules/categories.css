@@ -1,0 +1,36 @@
+.category__blackbg {
+    background: var(--black);
+}
+.heads img {
+    display: none;
+    background: black;
+}
+.categories__grid{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(4, 1fr);
+    width: 42em;
+    margin: auto;
+    margin-top: 2em;
+}
+
+.categories__grid__box{
+    object-fit:cover;
+    width: 10.5em;
+    height: 10.5em;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+
+.categories__grid__link{
+    color: var(--white);
+    
+    width:8em;
+    text-align: center;
+    margin-top: 45%;
+    margin-left: 18%;
+    font-size: 0.8em;
+    position: absolute;
+    text-transform: uppercase;
+}

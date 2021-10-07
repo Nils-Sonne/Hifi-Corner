@@ -1,0 +1,925 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "brand": "Creek",
+            "category": "CD players",
+            "name": "Creek Classic CD",
+            "price": "£150",
+            "sale": "£100",
+            "image_folder": "cd_afspillere",
+            "image": "creek_classic_cd.jpg",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam at rerum mollitia vel quidem ab ducimus. Ullam at rerum mollitia vel quidem ab ducimus",
+            "arrays": 
+            {
+                "finish": [
+                    {"text": "Black"},
+                    {"text": "Silver"}
+                ],
+
+                "detail": [
+                    {"text": "Weight (KG)", "value": "5.5"},
+                    {"text": "Dimensions WxDxH (mm)", "value": "445 x 300 x 65.5"},
+                    {"text": "Cd Number Of Discs", "value": "1"},
+                    {"text": "Optical Digital Output", "value": "Yes"}
+                ],
+
+                "info": [
+                    {"text": "Manufacturer", "value": "Creek"},
+                    {"text": "Manufacturer Link", "value": "Creek.com"},
+                    {"text": "Free warranty", "value": "3 years"},
+                    {"text": "Delivery charge", "value": "Free"},
+                    {"text": "Delivery time", "value": "1 - 5 days"},
+                    {"text": "Card surcharges", "value": "11"}
+                ]
+            }
+        },
+        {
+            "id": 2,
+            "brand": "Boesendorfer",
+            "category": "Speakers",
+            "name": "Boesendorfer VCS wall",
+            "price": "£800",
+            "sale": "£600",
+            "image_folder": "hojtalere",
+            "image": "boesendorfer_vcs_wall.gif",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam at rerum mollitia vel quidem ab ducimus. Ullam at rerum mollitia vel quidem ab ducimus",
+            "arrays": 
+                {
+                    "finish": [
+                        {"text": "Gold"},
+                        {"text": "Rose Gold"}
+                    ],
+
+                    "detail": [
+                        {"text": "Weight (KG)", "value": "15.9"},
+                        {"text": "Dimensions WxDxH (mm)", "value": "445 x 300 x 65.5"},
+                        {"text": "Cd Number Of Discs", "value": "1"},
+                        {"text": "Optical Digital Output", "value": "Yes"}
+                    ],
+
+                    "info": [
+                        {"text": "Manufacturer", "value": "Boesendorfer"},
+                        {"text": "Manufacturer Link", "value": "Boesendorfer.com"},
+                        {"text": "Free warranty", "value": "3 years"},
+                        {"text": "Delivery charge", "value": "Free"},
+                        {"text": "Delivery time", "value": "1 - 5 days"},
+                        {"text": "Card surcharges", "value": "11"}
+                    ]
+                }
+        },
+        {
+            "id": 3,
+            "brand": "Pro-ject",
+            "category": "Turntables",
+            "name": "Pro-ject Debut 3 bl",
+            "price": "£120",
+            "sale": "£80",
+            "image_folder": "pladespillere",
+            "image": "Pro_ject_Debut_3_bl.jpg",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam at rerum mollitia vel quidem ab ducimus. Ullam at rerum mollitia vel quidem ab ducimus",
+            "arrays": 
+            {
+                "finish": [
+                    {"text": "White"},
+                    {"text": "Grey"}
+                ],
+
+                "detail": [
+                    {"text": "Weight (KG)", "value": "6.9"},
+                    {"text": "Dimensions WxDxH (mm)", "value": "445 x 300 x 65.5"},
+                    {"text": "Cd Number Of Discs", "value": "1"},
+                    {"text": "Optical Digital Output", "value": "Yes"}
+                ],
+
+                "info": [
+                    {"text": "Manufacturer", "value": "Pro-ject"},
+                    {"text": "Manufacturer Link", "value": "Pro-ject.com"},
+                    {"text": "Free warranty", "value": "3 years"},
+                    {"text": "Delivery charge", "value": "Free"},
+                    {"text": "Delivery time", "value": "1 - 5 days"},
+                    {"text": "Card surcharges", "value": "11"}
+                ]
+            }
+        },
+        {
+            "id": 4,
+            "brand": "Epos",
+            "category": "Speakers",
+            "name": "Epos M5",
+            "price": "£290",
+            "sale": "£260",
+            "image_folder": "hojtalere",
+            "image": "epos_m5.gif",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam at rerum mollitia vel quidem ab ducimus. Ullam at rerum mollitia vel quidem ab ducimus",
+            "arrays": 
+            {
+                "finish": [
+                    {"text": "Yellow"},
+                    {"text": "Black"}
+                ],
+
+                "detail": [
+                    {"text": "Weight (KG)", "value": "3"},
+                    {"text": "Dimensions WxDxH (mm)", "value": "445 x 300 x 65.5"},
+                    {"text": "Cd Number Of Discs", "value": "1"},
+                    {"text": "Optical Digital Output", "value": "Yes"}
+                ],
+
+                "info": [
+                    {"text": "Manufacturer", "value": "Epos"},
+                    {"text": "Manufacturer Link", "value": "Epos.com"},
+                    {"text": "Free warranty", "value": "3 years"},
+                    {"text": "Delivery charge", "value": "Free"},
+                    {"text": "Delivery time", "value": "1 - 5 days"},
+                    {"text": "Card surcharges", "value": "11"}
+                ]
+            }
+        },
+        {
+            "id": 5,
+            "brand": "Creek",
+            "category": "Amplifiers",
+            "name": "Creek a50i Amplifier",
+            "price": "£999",
+            "sale": "£980",
+            "image_folder": "int_forstaerkere",
+            "image": "creek_a50I.jpg",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam at rerum mollitia vel quidem ab ducimus. Ullam at rerum mollitia vel quidem ab ducimus",
+            "arrays": 
+            {
+                "finish": [
+                    {"text": "Silver"},
+                    {"text": "Black"}
+                ],
+
+                "detail": [
+                    {"text": "Weight (KG)", "value": "6"},
+                    {"text": "Dimensions WxDxH (mm)", "value": "445 x 300 x 65.5"},
+                    {"text": "Cd Number Of Discs", "value": "1"},
+                    {"text": "Optical Digital Output", "value": "Yes"}
+                ],
+
+                "info": [
+                    {"text": "Manufacturer", "value": "Creek"},
+                    {"text": "Manufacturer Link", "value": "Creek.com"},
+                    {"text": "Free warranty", "value": "3 years"},
+                    {"text": "Delivery charge", "value": "Free"},
+                    {"text": "Delivery time", "value": "1 - 5 days"},
+                    {"text": "Card surcharges", "value": "11"}
+                ]
+            }
+        },
+        {
+            "id": 6,
+            "brand": "Jolida",
+            "category": "Tube-amplifiers",
+            "name": "Jolida JD102b",
+            "price": "£460",
+            "sale": "£420",
+            "image_folder": "roer_forstaerkere",
+            "image": "jolida_JD102b.jpg",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam at rerum mollitia vel quidem ab ducimus. Ullam at rerum mollitia vel quidem ab ducimus",
+            "arrays": 
+            {
+                "finish": [
+                    {"text": "White"},
+                    {"text": "Black"}
+                ],
+
+                "detail": [
+                    {"text": "Weight (KG)", "value": "8.61"},
+                    {"text": "Dimensions WxDxH (mm)", "value": "445 x 300 x 65.5"},
+                    {"text": "Cd Number Of Discs", "value": "1"},
+                    {"text": "Optical Digital Output", "value": "Yes"}
+                ],
+
+                "info": [
+                    {"text": "Manufacturer", "value": "Jolida"},
+                    {"text": "Manufacturer Link", "value": "Jolida.com"},
+                    {"text": "Free warranty", "value": "3 years"},
+                    {"text": "Delivery charge", "value": "Free"},
+                    {"text": "Delivery time", "value": "1 - 5 days"},
+                    {"text": "Card surcharges", "value": "11"}
+                ]
+            }
+        },
+        {
+            "id": 7,
+            "brand": "Exposure",
+            "category": "CD players",
+            "name": "Exposure 2010S CD",
+            "price": "£650",
+            "sale": "£600",
+            "image_folder": "cd_afspillere",
+            "image": "Exp_2010S_CD.gif",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam at rerum mollitia vel quidem ab ducimus. Ullam at rerum mollitia vel quidem ab ducimus",
+            "arrays": 
+            {
+                "finish": [
+                    {"text": "Silver"},
+                    {"text": "Black"}
+                ],
+
+                "detail": [
+                    {"text": "Weight (KG)", "value": "5"},
+                    {"text": "Dimensions WxDxH (mm)", "value": "445 x 300 x 65.5"},
+                    {"text": "Cd Number Of Discs", "value": "1"},
+                    {"text": "Optical Digital Output", "value": "Yes"}
+                ],
+
+                "info": [
+                    {"text": "Manufacturer", "value": "Exposure"},
+                    {"text": "Manufacturer Link", "value": "Exposure.com"},
+                    {"text": "Free warranty", "value": "3 years"},
+                    {"text": "Delivery charge", "value": "Free"},
+                    {"text": "Delivery time", "value": "1 - 5 days"},
+                    {"text": "Card surcharges", "value": "11"}
+                ]
+            }
+        },
+        {
+            "id": 8,
+            "brand": "Manley",
+            "category": "Amplifiers",
+            "name": "Manley Snapper Mono",
+            "price": "£4580",
+            "sale": "£4300",
+            "image_folder": "effektforstaerkere",
+            "image": "manley_snapper.jpg",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam at rerum mollitia vel quidem ab ducimus. Ullam at rerum mollitia vel quidem ab ducimus",
+            "arrays": 
+            {
+                "finish": [
+                    {"text": "Silver"},
+                    {"text": "Gun Metal"}
+                ],
+
+                "detail": [
+                    {"text": "Weight (KG)", "value": "20.42"},
+                    {"text": "Dimensions WxDxH (mm)", "value": "445 x 300 x 65.5"},
+                    {"text": "Cd Number Of Discs", "value": "1"},
+                    {"text": "Optical Digital Output", "value": "Yes"}
+                ],
+
+                "info": [
+                    {"text": "Manufacturer", "value": "Manley"},
+                    {"text": "Manufacturer Link", "value": "Manley.com"},
+                    {"text": "Free warranty", "value": "3 years"},
+                    {"text": "Delivery charge", "value": "Free"},
+                    {"text": "Delivery time", "value": "1 - 5 days"},
+                    {"text": "Card surcharges", "value": "11"}
+                ]
+            }
+        },
+        {
+            "id": 9,
+            "brand": "Pro-ject",
+            "category": "Turntables",
+            "name": "Pro-ject RPM 5",
+            "price": "£1200",
+            "sale": "£950",
+            "image_folder": "pladespillere",
+            "image": "Pro_ject_rpm_5.jpg",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam at rerum mollitia vel quidem ab ducimus. Ullam at rerum mollitia vel quidem ab ducimus",
+            "arrays": 
+            {
+                "finish": [
+                    {"text": "Chrome"},
+                    {"text": "Sand"}
+                ],
+
+                "detail": [
+                    {"text": "Weight (KG)", "value": "20.42"},
+                    {"text": "Dimensions WxDxH (mm)", "value": "445 x 300 x 65.5"},
+                    {"text": "Cd Number Of Discs", "value": "1"},
+                    {"text": "Optical Digital Output", "value": "Yes"}
+                ],
+
+                "info": [
+                    {"text": "Manufacturer", "value": "Pro-ject"},
+                    {"text": "Manufacturer Link", "value": "Pro-ject.com"},
+                    {"text": "Free warranty", "value": "3 years"},
+                    {"text": "Delivery charge", "value": "Free"},
+                    {"text": "Delivery time", "value": "1 - 5 days"},
+                    {"text": "Card surcharges", "value": "11"}
+                ]
+            }
+        },
+        {
+            "id": 10,
+            "brand": "Creek",
+            "category": "CD players",
+            "name": "Creek Destiny CD",
+            "price": "£2195",
+            "sale": "£1650",
+            "image_folder": "cd_afspillere",
+            "image": "creek_Destiny_CD.jpg",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam at rerum mollitia vel quidem ab ducimus. Ullam at rerum mollitia vel quidem ab ducimus",
+            "arrays": 
+            {
+                "finish": [
+                    {"text": "Black"},
+                    {"text": "Silver"}
+                ],
+
+                "detail": [
+                    {"text": "Weight (KG)", "value": "20.42"},
+                    {"text": "Dimensions WxDxH (mm)", "value": "445 x 300 x 65.5"},
+                    {"text": "Cd Number Of Discs", "value": "1"},
+                    {"text": "Optical Digital Output", "value": "Yes"}
+                ],
+
+                "info": [
+                    {"text": "Manufacturer", "value": "Creek"},
+                    {"text": "Manufacturer Link", "value": "Creek.com"},
+                    {"text": "Free warranty", "value": "3 years"},
+                    {"text": "Delivery charge", "value": "Free"},
+                    {"text": "Delivery time", "value": "1 - 5 days"},
+                    {"text": "Card surcharges", "value": "11"}
+                ]
+            }
+        },
+        {
+            "id": 11,
+            "brand": "Creek",
+            "category": "CD players",
+            "name": "Creek EVO CD",
+            "price": "£1795",
+            "sale": "£1650",
+            "image_folder": "cd_afspillere",
+            "image": "creek_evo_cd.jpg",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam at rerum mollitia vel quidem ab ducimus. Ullam at rerum mollitia vel quidem ab ducimus",
+            "arrays": 
+            {
+                "finish": [
+                    {"text": "Black"},
+                    {"text": "Silver"}
+                ],
+
+                "detail": [
+                    {"text": "Weight (KG)", "value": "5.5"},
+                    {"text": "Dimensions WxDxH (mm)", "value": "445 x 300 x 65.5"},
+                    {"text": "Cd Number Of Discs", "value": "1"},
+                    {"text": "Optical Digital Output", "value": "Yes"}
+                ],
+
+                "info": [
+                    {"text": "Manufacturer", "value": "Creek"},
+                    {"text": "Manufacturer Link", "value": "Creek.com"},
+                    {"text": "Free warranty", "value": "3 years"},
+                    {"text": "Delivery charge", "value": "Free"},
+                    {"text": "Delivery time", "value": "1 - 5 days"},
+                    {"text": "Card surcharges", "value": "11"}
+                ]
+            }
+        },
+        {
+            "id": 11,
+            "brand": "Parasound",
+            "category": "DVD players",
+            "name": "Parasound d200",
+            "price": "£200",
+            "sale": "£90",
+            "image_folder": "dvdafspillere",
+            "image": "parasound_d200.jpg",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam at rerum mollitia vel quidem ab ducimus. Ullam at rerum mollitia vel quidem ab ducimus",
+            "arrays": 
+            {
+                "finish": [
+                    {"text": "Gun Metal"},
+                    {"text": "Black"}
+                ],
+
+                "detail": [
+                    {"text": "Weight (KG)", "value": "7.1"},
+                    {"text": "Dimensions WxDxH (mm)", "value": "445 x 300 x 65.5"},
+                    {"text": "Cd Number Of Discs", "value": "1"},
+                    {"text": "Optical Digital Output", "value": "Yes"}
+                ],
+
+                "info": [
+                    {"text": "Manufacturer", "value": "Parasound"},
+                    {"text": "Manufacturer Link", "value": "Parasound.com"},
+                    {"text": "Free warranty", "value": "3 years"},
+                    {"text": "Delivery charge", "value": "Free"},
+                    {"text": "Delivery time", "value": "1 - 5 days"},
+                    {"text": "Card surcharges", "value": "11"}
+                ]
+            }
+        },
+        {
+            "id": 12,
+            "brand": "Parasound",
+            "category": "DVD players",
+            "name": "Parasound Halod3",
+            "price": "£120",
+            "sale": "£100",
+            "image_folder": "dvdafspillere",
+            "image": "parasound_halod3.jpg",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam at rerum mollitia vel quidem ab ducimus. Ullam at rerum mollitia vel quidem ab ducimus",
+            "arrays": 
+            {
+                "finish": [
+                    {"text": "White"},
+                    {"text": "Chrome"}
+                ],
+
+                "detail": [
+                    {"text": "Weight (KG)", "value": "7.1"},
+                    {"text": "Dimensions WxDxH (mm)", "value": "445 x 300 x 65.5"},
+                    {"text": "Cd Number Of Discs", "value": "1"},
+                    {"text": "Optical Digital Output", "value": "Yes"}
+                ],
+
+                "info": [
+                    {"text": "Manufacturer", "value": "Parasound"},
+                    {"text": "Manufacturer Link", "value": "parasound.com"},
+                    {"text": "Free warranty", "value": "3 years"},
+                    {"text": "Delivery charge", "value": "Free"},
+                    {"text": "Delivery time", "value": "1 - 5 days"},
+                    {"text": "Card surcharges", "value": "11"}
+                ]
+            }
+        },
+        {
+            "id": 13,
+            "brand": "Manley",
+            "category": "Amplifiers",
+            "name": "Manley Mahi",
+            "price": "£120",
+            "sale": "£100",
+            "image_folder": "effektforstaerkere",
+            "image": "manley_mahi.jpg",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam at rerum mollitia vel quidem ab ducimus. Ullam at rerum mollitia vel quidem ab ducimus",
+            "arrays": 
+            {
+                "finish": [
+                    {"text": "Silver"},
+                    {"text": "Chrome"}
+                ],
+
+                "detail": [
+                    {"text": "Weight (KG)", "value": "5.4"},
+                    {"text": "Dimensions WxDxH (mm)", "value": "445 x 300 x 65.5"},
+                    {"text": "Cd Number Of Discs", "value": "1"},
+                    {"text": "Optical Digital Output", "value": "Yes"}
+                ],
+
+                "info": [
+                    {"text": "Manufacturer", "value": "Manley"},
+                    {"text": "Manufacturer Link", "value": "Manley.com"},
+                    {"text": "Free warranty", "value": "3 years"},
+                    {"text": "Delivery charge", "value": "Free"},
+                    {"text": "Delivery time", "value": "1 - 5 days"},
+                    {"text": "Card surcharges", "value": "11"}
+                ]
+            }
+        },
+        {
+            "id": 14,
+            "brand": "Manley",
+            "category": "Amplifiers",
+            "name": "Manley Neoclassic",
+            "price": "£120",
+            "sale": "£100",
+            "image_folder": "effektforstaerkere",
+            "image": "manley_neoclassic300b.jpg",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam at rerum mollitia vel quidem ab ducimus. Ullam at rerum mollitia vel quidem ab ducimus",
+            "arrays": 
+            {
+                "finish": [
+                    {"text": "Silver"},
+                    {"text": "Chrome"}
+                ],
+
+                "detail": [
+                    {"text": "Weight (KG)", "value": "7.5"},
+                    {"text": "Dimensions WxDxH (mm)", "value": "445 x 300 x 65.5"},
+                    {"text": "Cd Number Of Discs", "value": "1"},
+                    {"text": "Optical Digital Output", "value": "Yes"}
+                ],
+
+                "info": [
+                    {"text": "Manufacturer", "value": "Manley"},
+                    {"text": "Manufacturer Link", "value": "Manley.com"},
+                    {"text": "Free warranty", "value": "3 years"},
+                    {"text": "Delivery charge", "value": "Free"},
+                    {"text": "Delivery time", "value": "1 - 5 days"},
+                    {"text": "Card surcharges", "value": "11"}
+                ]
+            }
+        },
+        {
+            "id": 14,
+            "brand": "Harbeth",
+            "category": "Speakers",
+            "name": "Harbeth HL7ES2",
+            "price": "£220",
+            "sale": "£150",
+            "image_folder": "hojtalere",
+            "image": "harbeth_hl7es2.jpg",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam at rerum mollitia vel quidem ab ducimus. Ullam at rerum mollitia vel quidem ab ducimus",
+            "arrays": 
+            {
+                "finish": [
+                    {"text": "Oak"},
+                    {"text": "Darkgrey"}
+                ],
+
+                "detail": [
+                    {"text": "Weight (KG)", "value": "2.7"},
+                    {"text": "Dimensions WxDxH (mm)", "value": "445 x 300 x 65.5"},
+                    {"text": "Cd Number Of Discs", "value": "1"},
+                    {"text": "Optical Digital Output", "value": "Yes"}
+                ],
+
+                "info": [
+                    {"text": "Manufacturer", "value": "Harbeth"},
+                    {"text": "Manufacturer Link", "value": "Harbeth.com"},
+                    {"text": "Free warranty", "value": "3 years"},
+                    {"text": "Delivery charge", "value": "Free"},
+                    {"text": "Delivery time", "value": "1 - 5 days"},
+                    {"text": "Card surcharges", "value": "11"}
+                ]
+            }
+        },
+        {
+            "id": 15,
+            "brand": "Harbeth",
+            "category": "Speakers",
+            "name": "Harbeth Monitor 30",
+            "price": "£180",
+            "sale": "£150",
+            "image_folder": "hojtalere",
+            "image": "harbeth_monitor30.jpg",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam at rerum mollitia vel quidem ab ducimus. Ullam at rerum mollitia vel quidem ab ducimus",
+            "arrays": 
+            {
+                "finish": [
+                    {"text": "Plywood"},
+                    {"text": "Darkgrey"},
+                    {"text": "Speciel Edt."}
+                ],
+
+                "detail": [
+                    {"text": "Weight (KG)", "value": "2.5"},
+                    {"text": "Dimensions WxDxH (mm)", "value": "445 x 300 x 65.5"},
+                    {"text": "Cd Number Of Discs", "value": "1"},
+                    {"text": "Optical Digital Output", "value": "Yes"}
+                ],
+
+                "info": [
+                    {"text": "Manufacturer", "value": "Harbeth"},
+                    {"text": "Manufacturer Link", "value": "Harbeth.com"},
+                    {"text": "Free warranty", "value": "3 years"},
+                    {"text": "Delivery charge", "value": "Free"},
+                    {"text": "Delivery time", "value": "1 - 5 days"},
+                    {"text": "Card surcharges", "value": "11"}
+                ]
+            }
+        },
+        {
+            "id": 16,
+            "brand": "Harbeth",
+            "category": "Speakers",
+            "name": "Harbeth P3ES2",
+            "price": "£160",
+            "sale": "£145",
+            "image_folder": "hojtalere",
+            "image": "harbeth_p3es2.jpg",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam at rerum mollitia vel quidem ab ducimus. Ullam at rerum mollitia vel quidem ab ducimus",
+            "arrays": 
+            {
+                "finish": [
+                    {"text": "Oak"},
+                    {"text": "Plywood"},
+                    {"text": "Dark"}
+                ],
+
+                "detail": [
+                    {"text": "Weight (KG)", "value": "1.5"},
+                    {"text": "Dimensions WxDxH (mm)", "value": "445 x 300 x 65.5"},
+                    {"text": "Cd Number Of Discs", "value": "1"},
+                    {"text": "Optical Digital Output", "value": "Yes"}
+                ],
+
+                "info": [
+                    {"text": "Manufacturer", "value": "Harbeth"},
+                    {"text": "Manufacturer Link", "value": "Harbeth.com"},
+                    {"text": "Free warranty", "value": "3 years"},
+                    {"text": "Delivery charge", "value": "Free"},
+                    {"text": "Delivery time", "value": "1 - 5 days"},
+                    {"text": "Card surcharges", "value": "11"}
+                ]
+            }
+        },
+        {
+            "id": 17,
+            "brand": "Manley",
+            "category": "Amplifiers",
+            "name": "Manley Stingray",
+            "price": "£3560",
+            "sale": "£3000",
+            "image_folder": "int_forstaerkere",
+            "image": "Manley_Stingray.jpg",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam at rerum mollitia vel quidem ab ducimus. Ullam at rerum mollitia vel quidem ab ducimus",
+            "arrays": 
+            {
+                "finish": [
+                    {"text": "Dark"},
+                    {"text": "Light"}
+                ],
+
+                "detail": [
+                    {"text": "Weight (KG)", "value": "8"},
+                    {"text": "Dimensions WxDxH (mm)", "value": "445 x 300 x 65.5"},
+                    {"text": "Cd Number Of Discs", "value": "1"},
+                    {"text": "Optical Digital Output", "value": "Yes"}
+                ],
+
+                "info": [
+                    {"text": "Manufacturer", "value": "Manley"},
+                    {"text": "Manufacturer Link", "value": "manley.com"},
+                    {"text": "Free warranty", "value": "3 years"},
+                    {"text": "Delivery charge", "value": "Free"},
+                    {"text": "Delivery time", "value": "1 - 5 days"},
+                    {"text": "Card surcharges", "value": "11"}
+                ]
+            }
+        },
+        {
+            "id": 18,
+            "brand": "Manley",
+            "category": "Amplifiers",
+            "name": "Manley Destiny",
+            "price": "£3760",
+            "sale": "£3500",
+            "image_folder": "int_forstaerkere",
+            "image": "creek_destinyamp.jpg",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam at rerum mollitia vel quidem ab ducimus. Ullam at rerum mollitia vel quidem ab ducimus",
+            "arrays": 
+            {
+                "finish": [
+                    {"text": "Dark"},
+                    {"text": "Limited"}
+                ],
+
+                "detail": [
+                    {"text": "Weight (KG)", "value": "4"},
+                    {"text": "Dimensions WxDxH (mm)", "value": "445 x 300 x 65.5"},
+                    {"text": "Cd Number Of Discs", "value": "1"},
+                    {"text": "Optical Digital Output", "value": "Yes"}
+                ],
+
+                "info": [
+                    {"text": "Manufacturer", "value": "Manley"},
+                    {"text": "Manufacturer Link", "value": "Manley.com"},
+                    {"text": "Free warranty", "value": "3 years"},
+                    {"text": "Delivery charge", "value": "Free"},
+                    {"text": "Delivery time", "value": "1 - 5 days"},
+                    {"text": "Card surcharges", "value": "11"}
+                ]
+            }
+        },
+        {
+            "id": 19,
+            "brand": "Creek",
+            "category": "Amplifiers",
+            "name": "Creek Classic 5350SE",
+            "price": "£3300",
+            "sale": "£3200",
+            "image_folder": "int_forstaerkere",
+            "image": "creek_classic5350SE.jpg",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam at rerum mollitia vel quidem ab ducimus. Ullam at rerum mollitia vel quidem ab ducimus",
+            "arrays": 
+            {
+                "finish": [
+                    {"text": "Silver"}
+                ],
+
+                "detail": [
+                    {"text": "Weight (KG)", "value": "5"},
+                    {"text": "Dimensions WxDxH (mm)", "value": "445 x 300 x 65.5"},
+                    {"text": "Cd Number Of Discs", "value": "1"},
+                    {"text": "Optical Digital Output", "value": "Yes"}
+                ],
+
+                "info": [
+                    {"text": "Manufacturer", "value": "Creek"},
+                    {"text": "Manufacturer Link", "value": "Pro-ject.com"},
+                    {"text": "Free warranty", "value": "3 years"},
+                    {"text": "Delivery charge", "value": "Free"},
+                    {"text": "Delivery time", "value": "1 - 5 days"},
+                    {"text": "Card surcharges", "value": "11"}
+                ]
+            }
+        },
+        {
+        "id": 20,
+            "brand": "Pro-ject",
+            "category": "Turntables",
+            "name": "Pro-ject Debut 3 Red",
+            "price": "£1200",
+            "sale": "£950",
+            "image_folder": "pladespillere",
+            "image": "Pro_ject_Debut_III_red_1.jpg",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam at rerum mollitia vel quidem ab ducimus. Ullam at rerum mollitia vel quidem ab ducimus",
+            "arrays": 
+            {
+                "finish": [
+                    {"text": "Red"},
+                    {"text": "Red Lmt. Edt."}
+                ],
+
+                "detail": [
+                    {"text": "Weight (KG)", "value": "4.40"},
+                    {"text": "Dimensions WxDxH (mm)", "value": "445 x 300 x 65.5"},
+                    {"text": "Cd Number Of Discs", "value": "1"},
+                    {"text": "Optical Digital Output", "value": "Yes"}
+                ],
+
+                "info": [
+                    {"text": "Manufacturer", "value": "Pro-ject"},
+                    {"text": "Manufacturer Link", "value": "Pro-ject.com"},
+                    {"text": "Free warranty", "value": "3 years"},
+                    {"text": "Delivery charge", "value": "Free"},
+                    {"text": "Delivery time", "value": "1 - 5 days"},
+                    {"text": "Card surcharges", "value": "11"}
+                ]
+            }
+        },
+        {
+            "id": 21,
+                "brand": "Pro-ject",
+                "category": "Turntables",
+                "name": "Pro-ject Debut 3 Yellow",
+                "price": "£1200",
+                "sale": "£950",
+                "image_folder": "pladespillere",
+                "image": "Pro_ject_Debut_III_yellow_1.jpg",
+                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam at rerum mollitia vel quidem ab ducimus. Ullam at rerum mollitia vel quidem ab ducimus",
+                "arrays": 
+                {
+                    "finish": [
+                        {"text": "Yellow"},
+                        {"text": "Yellow Lmt. Edt."}
+                    ],
+    
+                    "detail": [
+                        {"text": "Weight (KG)", "value": "4.40"},
+                        {"text": "Dimensions WxDxH (mm)", "value": "445 x 300 x 65.5"},
+                        {"text": "Cd Number Of Discs", "value": "1"},
+                        {"text": "Optical Digital Output", "value": "Yes"}
+                    ],
+    
+                    "info": [
+                        {"text": "Manufacturer", "value": "Pro-ject"},
+                        {"text": "Manufacturer Link", "value": "Pro-ject.com"},
+                        {"text": "Free warranty", "value": "3 years"},
+                        {"text": "Delivery charge", "value": "Free"},
+                        {"text": "Delivery time", "value": "1 - 5 days"},
+                        {"text": "Card surcharges", "value": "11"}
+                    ]
+                }
+            },
+            {
+                "id": 22,
+                    "brand": "Pro-ject",
+                    "category": "Turntables",
+                    "name": "Pro-ject RPM 10",
+                    "price": "£1400",
+                    "sale": "£1050",
+                    "image_folder": "pladespillere",
+                    "image": "Pro_ject_rpm10.jpg",
+                    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam at rerum mollitia vel quidem ab ducimus. Ullam at rerum mollitia vel quidem ab ducimus",
+                    "arrays": 
+                    {
+                        "finish": [
+                            {"text": "Chrome"}
+                            
+                        ],
+        
+                        "detail": [
+                            {"text": "Weight (KG)", "value": "4.40"},
+                            {"text": "Dimensions WxDxH (mm)", "value": "445 x 300 x 65.5"},
+                            {"text": "Cd Number Of Discs", "value": "1"},
+                            {"text": "Optical Digital Output", "value": "Yes"}
+                        ],
+        
+                        "info": [
+                            {"text": "Manufacturer", "value": "Pro-ject"},
+                            {"text": "Manufacturer Link", "value": "Pro-ject.com"},
+                            {"text": "Free warranty", "value": "3 years"},
+                            {"text": "Delivery charge", "value": "Free"},
+                            {"text": "Delivery time", "value": "1 - 5 days"},
+                            {"text": "Card surcharges", "value": "11"}
+                        ]
+                    }
+                },
+                {
+                    "id": 23,
+                    "brand": "Jolida",
+                    "category": "Tube-amplifiers",
+                    "name": "Jolida JD300b",
+                    "price": "£4020",
+                    "sale": "£2060",
+                    "image_folder": "roer_forstaerkere",
+                    "image": "jolida_JD300b.jpg",
+                    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam at rerum mollitia vel quidem ab ducimus. Ullam at rerum mollitia vel quidem ab ducimus",
+                    "arrays": 
+                    {
+                        "finish": [
+                            {"text": "Silver"},
+                            {"text": "Black"}
+                        ],
+        
+                        "detail": [
+                            {"text": "Weight (KG)", "value": "10"},
+                            {"text": "Dimensions WxDxH (mm)", "value": "445 x 300 x 65.5"},
+                            {"text": "Cd Number Of Discs", "value": "1"},
+                            {"text": "Optical Digital Output", "value": "Yes"}
+                        ],
+        
+                        "info": [
+                            {"text": "Manufacturer", "value": "Jolida"},
+                            {"text": "Manufacturer Link", "value": "Jolida.com"},
+                            {"text": "Free warranty", "value": "3 years"},
+                            {"text": "Delivery charge", "value": "Free"},
+                            {"text": "Delivery time", "value": "1 - 5 days"},
+                            {"text": "Card surcharges", "value": "11"}
+                        ]
+                    }
+                },
+                {
+                    "id": 24,
+                    "brand": "Jolida",
+                    "category": "Tube-amplifiers",
+                    "name": "Jolida JD302b",
+                    "price": "£4660",
+                    "sale": "£4200",
+                    "image_folder": "roer_forstaerkere",
+                    "image": "jolida_JD302b.jpg",
+                    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam at rerum mollitia vel quidem ab ducimus. Ullam at rerum mollitia vel quidem ab ducimus",
+                    "arrays": 
+                    {
+                        "finish": [
+                            {"text": "Chrome"},
+                            {"text": "Black"}
+                        ],
+        
+                        "detail": [
+                            {"text": "Weight (KG)", "value": "11"},
+                            {"text": "Dimensions WxDxH (mm)", "value": "445 x 300 x 65.5"},
+                            {"text": "Cd Number Of Discs", "value": "1"},
+                            {"text": "Optical Digital Output", "value": "Yes"}
+                        ],
+        
+                        "info": [
+                            {"text": "Manufacturer", "value": "Jolida"},
+                            {"text": "Manufacturer Link", "value": "Jolida.com"},
+                            {"text": "Free warranty", "value": "3 years"},
+                            {"text": "Delivery charge", "value": "Free"},
+                            {"text": "Delivery time", "value": "1 - 5 days"},
+                            {"text": "Card surcharges", "value": "11"}
+                        ]
+                    }
+                },
+                {
+                    "id": 25,
+                    "brand": "Jolida",
+                    "category": "Tube-amplifiers",
+                    "name": "Jolida JD502b",
+                    "price": "£5660",
+                    "sale": "£4500",
+                    "image_folder": "roer_forstaerkere",
+                    "image": "jolida_JD502b.jpg",
+                    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam at rerum mollitia vel quidem ab ducimus. Ullam at rerum mollitia vel quidem ab ducimus",
+                    "arrays": 
+                    {
+                        "finish": [
+                            {"text": "Chrome"},
+                            {"text": "Black"}
+                        ],
+        
+                        "detail": [
+                            {"text": "Weight (KG)", "value": "11"},
+                            {"text": "Dimensions WxDxH (mm)", "value": "445 x 300 x 65.5"},
+                            {"text": "Cd Number Of Discs", "value": "1"},
+                            {"text": "Optical Digital Output", "value": "Yes"}
+                           
+                        ],
+        
+                        "info": [
+                            {"text": "Manufacturer", "value": "Jolida"},
+                            {"text": "Manufacturer Link", "value": "Jolida.com"},
+                            {"text": "Free warranty", "value": "3 years"},
+                            {"text": "Delivery charge", "value": "Free"},
+                            {"text": "Delivery time", "value": "1 - 5 days"},
+                            {"text": "Card surcharges", "value": "11"}
+
+                        ]
+                    }
+                }                                                                      
+    ]
+}

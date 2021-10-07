@@ -1,0 +1,35 @@
+.price-box {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 -0.5em;
+    color: var(--main-brand-brown);
+}
+
+.heading__product-name {
+    text-transform: uppercase;
+    color: var(--main-brand-brown);
+    font-weight: 600;
+}
+
+.link__brand-link {
+    margin-top: 1em;
+    color: var(--main-brand-brown);
+}
+
+.heading__product-price {
+    text-decoration: line-through;
+    margin-top: 0.2em;
+}
+
+.heading__product-sale {
+    margin: 0 1em;
+}
+
+.text__product-description {
+    margin: 1.5em 0;
+    line-height: 1.4em;
+}
+
+.star {
+   color: var(--star);
+}
